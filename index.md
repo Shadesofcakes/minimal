@@ -1,123 +1,27 @@
 ---
 layout: default
+title: Shades of Cake
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Shades of Cake
 
-[Link to another page](./another-page.html).
+Welcome to Shades of Cake, where we explore the many flavors and colors of cakes! My name is [Your Name], and I'm a passionate baker who loves experimenting with different cake recipes and decorations.
 
-There should be whitespace between paragraphs.
+On this page, I'll be sharing some of my favorite cake recipes, as well as tips and tricks for baking and decorating cakes. Whether you're an experienced baker or a newbie in the kitchen, I hope you'll find something here that inspires you to create your own sweet masterpieces.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## About Me
 
-# Header 1
+I've always had a sweet tooth and a love for baking, but it wasn't until a few years ago that I really started to dive into the world of cake baking. Since then, I've experimented with all kinds of flavors and styles, from classic chocolate cakes to exotic fruit-filled cakes.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+One of my favorite things about baking cakes is the creative aspect - I love trying out new designs and decorations, and seeing how they turn out. Some of my favorite decorations include fresh flowers, edible gold leaf, and colorful sprinkles.
 
-## Header 2
+Aside from baking, I enjoy reading, hiking, and spending time with my family and pets. I'm also a huge fan of coffee, and I love trying out new coffee shops and roasts.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Some of My Favorite Cake Recipes
 
-### Header 3
+- Classic Chocolate Cake: This is a tried-and-true recipe that never fails to please. The key is using high-quality cocoa powder and real butter for a rich, chocolatey flavor.
+- Lemon Blueberry Cake: This cake is perfect for spring and summer, with its bright, citrusy flavor and juicy blueberries. I like to decorate it with a simple lemon glaze and fresh blueberries on top.
+- Red Velvet Cake: This classic cake is always a crowd-pleaser, with its deep red color and creamy frosting. I like to add a little bit of espresso powder to the batter to give it an extra kick of flavor.
+- Carrot Cake: This is a healthier option that's still deliciously sweet and satisfying. I use whole wheat flour and coconut oil instead of butter, and add in shredded carrots and walnuts for some texture.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+I hope this gives you a taste of what Shades of Cake is all about. Happy baking!
