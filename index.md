@@ -18,11 +18,21 @@ Aside from baking, I enjoy reading, hiking, and spending time with my family and
 
 ## Some of My Favorite Cake Recipes
 
-- Classic Chocolate Cake: This is a tried-and-true recipe that never fails to please. The key is using high-quality cocoa powder and real butter for a rich, chocolatey flavor.
-<center><img src="assets/img/hbd.png" style="width: 50%;"></center>
+### Classic Chocolate Cake: This is a tried-and-true recipe that never fails to please. The key is using high-quality cocoa powder and real butter for a rich, chocolatey flavor.
+- <center><img src="assets/img/hbd.jpg "/></center>
 
-- Lemon Blueberry Cake: This cake is perfect for spring and summer, with its bright, citrusy flavor and juicy blueberries. I like to decorate it with a simple lemon glaze and fresh blueberries on top.
-- Red Velvet Cake: This classic cake is always a crowd-pleaser, with its deep red color and creamy frosting. I like to add a little bit of espresso powder to the batter to give it an extra kick of flavor.
-- Carrot Cake: This is a healthier option that's still deliciously sweet and satisfying. I use whole wheat flour and coconut oil instead of butter, and add in shredded carrots and walnuts for some texture.
+### For Love ones Cake: Our love cake is the perfect dessert to share with your special someone or to treat yourself to a little love.
+  Indulge in the sweetness of love with every bite of our delicious love cake.
+  <center><img src="assets/img/love.jpg "/></center>
 
+### Childern's Cake:   
+  Let your child's imagination run wild with our colorful and delicious children's cake, perfect for any occasion!
+  Our children's cake is made with the finest ingredients and crafted with care to make your child's special day even sweeter.
+  <center><img src="assets/img/dora.jpg "/></center>
+  
+### Special anniversary Cake: Celebrate your love and cherished memories with our exquisite anniversary cake, beautifully crafted and made with the finest ingredients. Make your anniversary unforgettable with our personalized anniversary cake, customized to reflect your unique love story and journey together.
+  <center><img src="assets/img/anvr.jpg "/></center>
 I hope this gives you a taste of what Shades of Cake is all about. Happy baking!
+
+## Ashlesha Ninawe
+- Do whats makes you happy!
