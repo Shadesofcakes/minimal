@@ -19,7 +19,7 @@ Aside from baking, I enjoy reading, hiking, and spending time with my family and
 ## Some of My Favorite Cake Recipes
 
 - Classic Chocolate Cake: This is a tried-and-true recipe that never fails to please. The key is using high-quality cocoa powder and real butter for a rich, chocolatey flavor.
-<center><img src="assets/img/hbd.png" style="width: 50%; max-width: 300px;"></center>
+<center><img src="assets/img/hbd.png" style="width: 50%;"></center>
 
 - Lemon Blueberry Cake: This cake is perfect for spring and summer, with its bright, citrusy flavor and juicy blueberries. I like to decorate it with a simple lemon glaze and fresh blueberries on top.
 - Red Velvet Cake: This classic cake is always a crowd-pleaser, with its deep red color and creamy frosting. I like to add a little bit of espresso powder to the batter to give it an extra kick of flavor.
