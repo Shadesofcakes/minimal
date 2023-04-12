@@ -4,7 +4,7 @@ title: Shades of Cake
 
 # Shades of Cake
 
-Welcome to Shades of Cake, where we explore the many flavors and colors of cakes! My name is [Your Name], and I'm a passionate baker who loves experimenting with different cake recipes and decorations.
+Welcome to Shades of Cake, where we explore the many flavors and colors of cakes! My name is Ashlesha Ninawe , and I'm a passionate baker who loves experimenting with different cake recipes and decorations.
 
 On this page, I'll be sharing some of my favorite cake recipes, as well as tips and tricks for baking and decorating cakes. Whether you're an experienced baker or a newbie in the kitchen, I hope you'll find something here that inspires you to create your own sweet masterpieces.
 
@@ -18,10 +18,13 @@ Aside from baking, I enjoy reading, hiking, and spending time with my family and
 
 ## Some of My Favorite Cake Recipes
 
-### Classic Chocolate Cake: This is a tried-and-true recipe that never fails to please. The key is using high-quality cocoa powder and real butter for a rich, chocolatey flavor.
+### Classic Chocolate Cake: 
+ This is a tried-and-true recipe that never fails to please. 
+ The key is using high-quality cocoa powder and real butter for a rich, chocolatey flavor.
 - <center><img src="assets/img/hbd.jpg "/></center>
 
-### For Love ones Cake: Our love cake is the perfect dessert to share with your special someone or to treat yourself to a little love.
+### For Love ones Cake: 
+  Our love cake is the perfect dessert to share with your special someone or to treat yourself to a little love.
   Indulge in the sweetness of love with every bite of our delicious love cake.
   <center><img src="assets/img/love.jpg "/></center>
 
@@ -30,8 +33,11 @@ Aside from baking, I enjoy reading, hiking, and spending time with my family and
   Our children's cake is made with the finest ingredients and crafted with care to make your child's special day even sweeter.
   <center><img src="assets/img/dora.jpg "/></center>
   
-### Special anniversary Cake: Celebrate your love and cherished memories with our exquisite anniversary cake, beautifully crafted and made with the finest ingredients. Make your anniversary unforgettable with our personalized anniversary cake, customized to reflect your unique love story and journey together.
+### Special anniversary Cake: 
+ Celebrate your love and cherished memories with our exquisite anniversary cake, beautifully crafted and made with the finest ingredients. 
+ Make your anniversary unforgettable with our personalized anniversary cake, customized to reflect your unique love story and journey together.
   <center><img src="assets/img/anvr.jpg "/></center>
+  
 I hope this gives you a taste of what Shades of Cake is all about. Happy baking!
 
 ## Ashlesha Ninawe
